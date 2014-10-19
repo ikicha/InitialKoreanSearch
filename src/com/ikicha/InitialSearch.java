@@ -1,3 +1,5 @@
+package com.ikicha;
+
 public class InitialSearch {
     private static char startInitial = 'ㄱ';
     private static char endInitial = 'ㅎ';
